@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>chandragiri</class>
+ <widget class="QDialog" name="chandragiri">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>892</width>
+    <height>625</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background:white;</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>596</x>
+     <y>11</y>
+     <width>285</width>
+     <height>298</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background:url(&quot;:/image preview/images/chandra3.jpg&quot;);
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>316</y>
+     <width>870</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Times New Roman</family>
+     <pointsize>13</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string> Chandragiri Hills is one of the popular sites in Nepal to visit with your families and friends.
+ It has grabbed the attention of several travelers all over the world due to its unmatched beauty.
+ On the lap of Chandragiri Hill resides a sacred temple of Lord Shiva at an altitude of 2551 meters.
+ Chandragiri Hill is also one of the popular hill stations near the Kathmandu valley, where you can
+ enjoy the snowfall during winter. Besides snowfall, several features of Chandragiri will enhance
+ your traveling experience, such as the sacred temple of Bhaleshwor Mahadev Temple.
+</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>11</y>
+     <width>301</width>
+     <height>298</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background:url(&quot;:/image preview/images/chandra2.jpg&quot;);
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_3" native="true">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>10</y>
+     <width>286</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background:url(&quot;:/images/images/chandragiri hills.png&quot;);
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

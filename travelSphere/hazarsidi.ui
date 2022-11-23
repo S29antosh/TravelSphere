@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>hazarsidi</class>
+ <widget class="QDialog" name="hazarsidi">
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background:white;
+</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>291</y>
+     <width>888</width>
+     <height>155</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Times New Roman</family>
+     <pointsize>13</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string> Dhulikhel Hajar Sidi, one of Dhulikhel’s star attractions, is a picnic spot, or a refreshment zone.
+ Hajar Sidi, meaning thousand-steps, is the name of the place because you reach the top of the area
+ by climbing a thousand concrete steps. A naturally standing massive stone rests on the top,
+ a popular spot for people to take photos. You can find reasonable accommodations, with beautiful
+ window views, and amazing Nepali cuisines. A perfect place for a day out with friends or families,
+ via hike or bikes, you can feel escaped from the busy streets of Kathmandu and connected to nature.</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>-10</y>
+     <width>326</width>
+     <height>273</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background:url(&quot;:/images/images/thousand steps.png&quot;);
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_3" native="true">
+   <property name="geometry">
+    <rect>
+     <x>14</x>
+     <y>0</y>
+     <width>326</width>
+     <height>273</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background:url(&quot;:/image preview/images/2 step.jpg&quot;);
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="hazarsidi_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>0</y>
+     <width>326</width>
+     <height>273</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background:url(&quot;:/image preview/images/3 step.jpg&quot;);
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Pokhara</class>
+ <widget class="QDialog" name="Pokhara">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>938</width>
+    <height>522</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background:white;</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QWidget" name="widget_2" native="true">
+     <property name="styleSheet">
+      <string notr="true">background:url(&quot;:/image preview/images/p1.jpg&quot;);
+
+
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QWidget" name="widget" native="true">
+     <property name="styleSheet">
+      <string notr="true">background:url(&quot;:/images/images/Pokhara.png&quot;);
+
+
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <widget class="QWidget" name="widget_3" native="true">
+     <property name="styleSheet">
+      <string notr="true">background:url(&quot;:/image preview/images/p2.jpg&quot;);
+
+
+border-radius:0px;
+background-repeat:no repeat;
+</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" colspan="3">
+    <widget class="QLabel" name="label">
+     <property name="font">
+      <font>
+       <family>Times New Roman</family>
+       <pointsize>13</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string> Pokhara ticks all the right boxes, with spectacular scenery, adventure activities, and accommodation
+ and food choices galore. Whether you’ve returned from a three-week trek or endured a bus trip from 
+ hell, Lakeside Pokhara is the perfect place to recharge your batteries. The tranquil lakes and the
+ earthy ambiance of Pokhara takes us close to nature. You can spend your vacation at the lakeside in
+ the daytime and then enjoy the nightlife of Pokhara.</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
